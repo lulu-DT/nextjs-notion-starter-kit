@@ -12,6 +12,7 @@ export default siteConfig({
   name: 'luzxxzul',
   domain: 'https://www.notion.so/Blog-ea556f038e3a46d48ee85f3f9d00d309',
   author: 'lulu',
+  beian: '黔ICP备2024030897号-1'
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
